@@ -1,4 +1,4 @@
-# Social Network Api
+# Ade-Social-Network-Api
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## User Story
